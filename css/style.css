@@ -31,3 +31,7 @@ li {
 .accordion-inner {
     display: none;
 }
+
+.active {
+    display: block;
+}
