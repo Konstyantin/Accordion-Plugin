@@ -3,4 +3,22 @@
  */
 ;(function ($, undefined) {
 
+    $.fn.accordionPlugin = function () {
+
+        var defaults = { duration: 500};
+
+        var methods = {
+            init: function (param) {
+                
+            },
+
+            duration: function (duration) {
+
+            },
+            
+            reset: function () {
+                
+            }
+        }
+    }
 })(jQuery);
