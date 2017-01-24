@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li {
+    list-style: none;
+}
+
+.accordion {
+    width: 300px;
+    margin: 50px;
+}
+
+.accordion-trigger {
+    display: block;
+    padding: 5px;
+    background: #f5f5f5;
+    border: 1px solid #eee;
+}
+
+.accordion-inner {
+    padding: 5px;
+}
+
+.accordion-inner {
+    display: none;
+}
